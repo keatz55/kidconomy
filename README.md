@@ -1,2 +1,1 @@
-# kidconomy
-# kidconomy
+# Kidconomy
